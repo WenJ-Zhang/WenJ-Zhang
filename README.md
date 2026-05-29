@@ -90,9 +90,5 @@
 ---
 
 <p align="center">
-  <b>Because it is there.</b> 🏔️
-</p>
-
-<p align="center">
   <i>Feel free to connect with me — let's explore the frontiers of AI together!</i>
 </p>
