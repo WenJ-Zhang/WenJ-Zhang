@@ -47,7 +47,6 @@
 > 
 > [📄 Paper](https://cvpr.thecvf.com/virtual/2026/poster/39788) · [💻 Code](https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code)
 
-- The first multimodal framework for semantic route planning that reduces geographical hallucinations via a novel self-editing pipeline.
 
 ### <img src="https://img.shields.io/badge/IEEE%20TIP%202025-%23007B86.svg?style=flat&logo=ieee&logoColor=white" /> HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery
 > Bobo Xi, **Wenjie Zhang**, Jiaojiao Li, Rui Song, Yunsong Li  
