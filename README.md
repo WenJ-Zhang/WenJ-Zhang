@@ -85,11 +85,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WenJ-Zhang&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenJ-Zhang&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WenJ-Zhang&theme=radical&hide_border=true&area=true" width="95%" />
 </p>
 
